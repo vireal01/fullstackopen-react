@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#components
+/components/clicler.jsx
+/components/cliclerV2.jsx
+/components/counter.jsx
+/components/Header.jsx
+/components/NavBar.jsx
+/components/Profile.jsx
+/components/sample.jsx
